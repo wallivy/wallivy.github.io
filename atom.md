@@ -1,7 +1,2 @@
-#atom
----
-##学习atom
-###学习atom写markdown文件
-####学习atom和github协作
-#####学习用atom和github创建网站
-######学习用atom编程
+
+学习atom不是迫于无奈，我终于找到了和程序接触的机会。
