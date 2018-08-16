@@ -1,6 +1,5 @@
 ### atom
 - [atom](https://github.com/atom/atom/blob/master/README.md)
-
 ### Atom Packages
 
 - [whitespace](https://atom.io/packages/whitespace)
@@ -25,16 +24,18 @@
 - [wakatime](https://atom.io/packages/wakatime)
 - [autosave](https://atom.io/packages/autosave)
 
-### Editor 
-
-- Font Family: Fira Code
-- Font Size : 14
 
 ### Theme
 
 - UI Theme : [Atom Material ](https://atom.io/themes/atom-material-ui)
-- Syntax Them :  Atom Material 
+- Syntax Them :  Atom Material
 - [atom-material-syntax](https://atom.io/themes/atom-material-syntax
 )
 
-> Don't forget to check Star this Gist :1st_place_medal: 
+
+### Editor
+
+- Leo
+
+###中文资源
+-
