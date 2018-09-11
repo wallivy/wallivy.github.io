@@ -1,0 +1,12 @@
+# 我的[极客学院](http://wiki.jikexueyuan.com/)
+---
+- [一步步教你用 PHP + MySQL 搭建网站](http://wiki.jikexueyuan.com/project/php-and-mysql-web/)
+- [Sass Guidelines 中文](http://wiki.jikexueyuan.com/project/sass-guidelines/)
+- [Hexo 中文版](http://wiki.jikexueyuan.com/project/hexo-document/)
+- [前端开发者手册](http://wiki.jikexueyuan.com/project/fedHandlebook/)
+- [Python 之旅](http://wiki.jikexueyuan.com/project/explore-python/)
+- [21 分钟 MySQL 入门教程](http://wiki.jikexueyuan.com/project/mysql-21-minutes/)
+- [Jekyll 教程](http://wiki.jikexueyuan.com/project/jekyll/)
+- [Atom飞行手册翻译](http://wiki.jikexueyuan.com/project/atom-flight-manual-zh-cn/)
+- [带你玩转 Visual Studio](http://wiki.jikexueyuan.com/project/visual-studio/)
+- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)

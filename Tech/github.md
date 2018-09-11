@@ -14,7 +14,6 @@
     -   [GitHub API](#github-api)
     -   [Travis CI](#travis-ci)
 -   [文章](#文章)
-      - [简书]
 -   [网站](#网站)
     		\- [常用网站](#常用网站)
     		\- [GitHub Rank](#github-rank)
@@ -44,6 +43,7 @@
 -   [怎样使用 GitHub？](https://www.zhihu.com/question/20070065) - 知乎问题
 -   [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
 -   [gitignore](https://github.com/github/gitignore) - GitHub官方的.gitignore模板集合
+- [如何编写gitignore文件 ](https://www.cnblogs.com/jingtyu/p/6831772.html)
 -   [GitHub 漫游指南](https://github.com/phodal/github-roam) - phodal的GitHub故事与教程
 -   [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
 -   [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的指导
